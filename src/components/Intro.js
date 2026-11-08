@@ -108,7 +108,7 @@ function Intro() {
           {/* <div className="intro-name"> */}
           <h2 className="intro-text">I'm Antony</h2>
           {/* <a
-              href="https://www.linkedin.com/in/anton3ch/"
+              href="https://www.linkedin.com/in/antonyporter/"
               target="_blank"
               id="myName"
               rel="noreferrer"

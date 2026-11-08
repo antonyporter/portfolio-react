@@ -202,7 +202,7 @@ const mainProjectList = [
     ],
   },
   {
-    deployedLink: "https://github.com/anton3ch/Note-Me-App",
+    deployedLink: "https://github.com/antonyporter/Note-Me-App",
     projectName: "Note Me",
     img: notemeImg,
     imgAlt: "Note Me App screenshot",
@@ -229,13 +229,13 @@ const mainProjectList = [
     ],
   },
   // {
-  //   deployedLink: "https://anton3ch.github.io/galactic-age/",
+  //   deployedLink: "https://antonyporter.github.io/galactic-age/",
   //   projectName: "Interplanetary Age",
   //   img: interplanetaryAgeImg,
   //   imgAlt: "Interplanetary Age app screenshot",
   //   description:
   //     "The applications calculates what would user's age be on different planets based on solar years.",
-  //   gitRepo: "https://github.com/anton3ch/galactic-age/",
+  //   gitRepo: "https://github.com/antonyporter/galactic-age/",
   //   technologies: [
   //     {
   //       name: "HTML",
@@ -256,7 +256,7 @@ const mainProjectList = [
   //   ],
   // },
   // {
-  //   deployedLink: "https://anton3ch.github.io/neighbor/",
+  //   deployedLink: "https://antonyporter.github.io/neighbor/",
   //   projectName: "Neighborhood",
   //   img: neighborhoodImg,
   //   imgAlt: "Neighborhood app screenshot",
@@ -279,13 +279,13 @@ const mainProjectList = [
   //   ],
   // },
   // {
-  //   deployedLink: "https://anton3ch.github.io/language-suggester/",
+  //   deployedLink: "https://antonyporter.github.io/language-suggester/",
   //   projectName: "Language Suggester",
   //   img: languageSuggesterImg,
   //   imgAlt: "Language Suggester app screenshot",
   //   description:
   //     "The website presents a Programming Language Suggester quiz where the result changes based on the user input.",
-  //   gitRepo: "https://github.com/anton3ch/language-suggester/",
+  //   gitRepo: "https://github.com/antonyporter/language-suggester/",
   //   technologies: [
   //     {
   //       name: "HTML",
@@ -302,13 +302,13 @@ const mainProjectList = [
   //   ],
   // },
   // {
-  //   deployedLink: "https://anton3ch.github.io/currency-exchange",
+  //   deployedLink: "https://antonyporter.github.io/currency-exchange",
   //   projectName: "Currency Exchange",
   //   img: currencyAgeImg,
   //   imgAlt: "Currency Exchanger app screenshot",
   //   description:
   //     "Currency Exchanger queries ExchangeRate-API to convert currency between all available currency types. A user can type in an amount and then choose which currency it should be converted from and to.",
-  //   gitRepo: "https://github.com/anton3ch/currency-exchange",
+  //   gitRepo: "https://github.com/antonyporter/currency-exchange",
   //   technologies: [
   //     {
   //       name: "HTML",
@@ -333,13 +333,13 @@ const mainProjectList = [
   //   ],
   // },
   // {
-  //   deployedLink: "https://anton3ch.github.io/slayer-rpg/",
+  //   deployedLink: "https://antonyporter.github.io/slayer-rpg/",
   //   projectName: "The Bug Slayer",
   //   img: rpgAgeImg,
   //   imgAlt: "The Bug Slayer app screenshot",
   //   description:
   //     "Point-and-click game in which the player must use nothing but their mouse to find clues in order to complete the quest.",
-  //   gitRepo: "https://github.com/anton3ch/slayer-rpg/",
+  //   gitRepo: "https://github.com/antonyporter/slayer-rpg/",
   //   technologies: [
   //     {
   //       name: "HTML",
@@ -364,13 +364,13 @@ const mainProjectList = [
 
 // const newProjectList = [
 //   {
-//     deployedLink: "https://anton3ch.github.io/slayer-rpg/",
+//     deployedLink: "https://antonyporter.github.io/slayer-rpg/",
 //     projectName: "The Bug Slayer",
 //     img: rpgAgeImg,
 //     imgAlt: "The Bug Slayer app screenshot",
 //     description:
 //       "Point-and-click game in which the player must use nothing but their mouse to find clues in order to complete the quest.",
-//     gitRepo: "https://github.com/anton3ch/slayer-rpg/",
+//     gitRepo: "https://github.com/antonyporter/slayer-rpg/",
 //     technologies: [
 //       {
 //         name: "HTML",

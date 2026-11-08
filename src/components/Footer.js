@@ -46,7 +46,7 @@ export default function Footer() {
           </svg>
         </a>
 
-        <a href="https://github.com/anton3ch" rel="noreferrer" target="_blank">
+        <a href="https://github.com/antonyporter" rel="noreferrer" target="_blank">
           <svg
             viewBox="0 0 24 24"
             fill="none"

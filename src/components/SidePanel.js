@@ -47,7 +47,7 @@ function SidePanel() {
           </li>
           <li>
             <a
-              href="https://github.com/anton3ch"
+              href="https://github.com/antonyporter"
               rel="noreferrer"
               target="_blank"
             >
